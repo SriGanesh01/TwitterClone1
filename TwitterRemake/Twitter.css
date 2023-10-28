@@ -1,0 +1,153 @@
+body {
+    height: 2000px;
+    background-color: black;
+    color: azure;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 50%;
+}
+
+.FullPage{
+    display: flex;
+    flex-direction: row;
+}
+.SidePanel{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    width: 161px;
+    position: fixed;
+    margin-left: 35px;
+}
+
+.TaylorImage{
+    height: 45px;
+    border-radius: 23px;
+}
+
+.PostOptions{
+    display: flex;
+    flex-direction: row;
+    text-align: end;
+}
+
+.WholePost{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+}
+
+.a{
+    padding: 17px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    text-align:left;
+}
+
+.b{
+    margin: 15px;
+    padding: 17px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    margin-left: auto;
+}
+
+.c{
+    padding: 7px;
+    margin-left: 21px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+}
+
+.d{
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    margin-left: auto;
+}
+
+.TopPanel{
+    display: flex;
+    flex-direction: row;
+}
+
+.MiddleSection1{
+    margin-left: 180px;
+    width: 615px;
+}
+
+.SeparatePart1{
+    margin-left: 70px;
+}
+
+.Input1{
+    height: 36px;
+    width: 465px;
+    margin-bottom: 17px;
+    margin-left: 15px;
+    background-color: black;
+    border: none;
+    color: azure;
+}
+
+.Post1{
+    margin-top: 50px;
+}
+
+.Post1Profile{
+    display: flex;
+    flex-direction: row;
+    align-items:start;
+}
+
+.MrBeastImage{
+    height: 45px;
+    border-radius: 23px;
+}
+
+.Message1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.Post2{
+    margin-top: 50px;
+}
+
+.Post2Profile{
+    display: flex;
+    flex-direction: row;
+    align-items:start;
+}
+
+.ElonImage{
+    height: 45px;
+    border-radius: 23px;
+}
+
+.Message2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.elonPost2{
+    width: 470px;
+    margin-bottom: 7px;
+}
+
+.Lastsection{
+    margin: 57px;
+}
+
+.P1{
+    font-size: xx-large;
+}
